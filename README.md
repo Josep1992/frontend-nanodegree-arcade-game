@@ -7,6 +7,12 @@
 Live Version
 [Here](https://arcade-clone.netlify.com/)
 
+How to play
+
+```
+The game is played using the arrow keys, its only optimized for desktop/laptop in mobile the game will run but the character won't move
+```
+
 > Install dependencies
 
 ```
